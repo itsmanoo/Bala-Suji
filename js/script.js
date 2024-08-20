@@ -1,5 +1,5 @@
 function updateCountdown() {
-    const startDate = new Date("2022-09-02");
+    const startDate = new Date("2024-08-30");
     const currentDate = new Date();
     const timeDifference = currentDate - startDate;
 
